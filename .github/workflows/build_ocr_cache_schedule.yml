@@ -1,4 +1,4 @@
-name: build_ocr_cache
+name: build_ocr_cache_schedule
 on:
   schedule:
     - cron: "*/5 * * * *"
